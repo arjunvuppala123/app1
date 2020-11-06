@@ -1,0 +1,12 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/40/24/e8/4024e85836ce733d7819aeca9d81d51f.jpg');
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(31, 30, 30);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-size: 2vh;
+}
